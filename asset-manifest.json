@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/forbidex/static/css/main.d1b05096.chunk.css",
+    "main.js": "/forbidex/static/js/main.a52541c9.chunk.js",
+    "main.js.map": "/forbidex/static/js/main.a52541c9.chunk.js.map",
+    "runtime-main.js": "/forbidex/static/js/runtime-main.adca60f6.js",
+    "runtime-main.js.map": "/forbidex/static/js/runtime-main.adca60f6.js.map",
+    "static/js/2.0c68d8fa.chunk.js": "/forbidex/static/js/2.0c68d8fa.chunk.js",
+    "static/js/2.0c68d8fa.chunk.js.map": "/forbidex/static/js/2.0c68d8fa.chunk.js.map",
+    "index.html": "/forbidex/index.html",
+    "precache-manifest.b0435429a685dfb37af1d4305ef0f4e4.js": "/forbidex/precache-manifest.b0435429a685dfb37af1d4305ef0f4e4.js",
+    "service-worker.js": "/forbidex/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/forbidex/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0c68d8fa.chunk.js.LICENSE": "/forbidex/static/js/2.0c68d8fa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adca60f6.js",
+    "static/js/2.0c68d8fa.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a52541c9.chunk.js"
+  ]
+}
